@@ -1,1 +1,1 @@
-run="npm start"
+run="sh main.sh >> replit.log | tee ./logs/log-file.txt 2>./logs/error-file.txt"

@@ -1,0 +1,15 @@
+const { Message, Client, MessageEmbed, MessageActionRow, MessageSelectMenu } = require("discord.js");
+const Discord = require("discord.js");
+
+module.exports = {
+  run: async (client, message, args) => {
+
+  const embed = new MessageEmbed()
+    .setTitle(`Em Desenvolvimento`)
+    .setColor("#FF0000")
+    .setDescription(`**No momento este comando não existe!**`)
+
+  return message.channel.send({ embeds: [embed] })
+  }
+}
+

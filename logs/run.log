@@ -1,0 +1,14 @@
+
+> nodejs-custom-version@1.0.0 start /home/runner/Warden-Bot
+> node .
+
+Hello from Node.js v16.6.1!
+Assistindo 11 Canais
+4 lOADED
+guild  Events Loaded Successfullly
+interactionCreate.js  Events Loaded Successfullly
+messageCreate.js  Events Loaded Successfullly
+ready.js  Events Loaded Successfullly
+threadCreate.js  Events Loaded Successfullly
+2 sls lOADED
+Ping recebido às 23:9:19
